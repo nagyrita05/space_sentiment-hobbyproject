@@ -1,3 +1,4 @@
+
 # 🛰️ Space Media Sentiment Analysis – Hobby Project
 
 This project analyzes **space-related news articles** in four subtopics using:
@@ -54,6 +55,8 @@ A special manual analysis (with ChatGPT) was conducted for the `policy_finance` 
 📄 policy_finance_sentiment_analysis.md  # Detailed markdown analysis
 📄 README.md                 # This file
 ```
+
+📘 For details on how to run the project, see [run_instructions.ipynb].
 
 ---
 
